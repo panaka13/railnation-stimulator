@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
 
+# build/vscode related
+build
+out
+CMakePresets.json
+.vs
+
 # Compiled Object files
 *.slo
 *.lo
